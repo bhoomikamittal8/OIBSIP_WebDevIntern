@@ -17,3 +17,5 @@ The Temperature Converter project is a web application that allows users to conv
 **Technologies:**
 HTML, CSS, JavaScript
 
+Refer to individual project READMEs for additional setup instructions, dependencies, and usage guidelines.
+
