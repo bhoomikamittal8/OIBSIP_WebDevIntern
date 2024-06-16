@@ -1,16 +1,56 @@
-# A-Landing-Page
-## Description:
+# Coffee Website Landing Page
 
-Step into the aromatic world of coffee with "Coffee Stains," your premier destination for all things caffeinated. Our responsive landing page website is designed to captivate your senses, offering a tantalizing glimpse into the rich and flavorful universe of coffee.
+Welcome to the Coffee Website project! This repository contains the code for a simple coffee-themed website showcasing various features and styles.
 
-## Key Features:
+## Table of Contents
 
-### Visually Stimulating Design: 
-Immerse yourself in the warm and inviting ambiance of a coffee shop right from your screen. Our visually pleasing design features coffee-inspired colors, textures, and imagery that will make you crave your favorite brew.
+- [Features](##features)
+- [Getting Started](##getting-started)
+- [Usage](##usage)
+- [License](##license)
 
-### Responsiveness at Its Best: 
-"Coffee Stains" is tailored to provide an optimal viewing experience across devices. Whether you're browsing on a desktop, tablet, or smartphone, our website ensures a seamless and visually appealing encounter.
+## Features
 
-### Sensory Journey: 
-Engage your senses as you explore our landing page. From the enticing aroma of coffee beans to the sound of steaming milk and a background playlist of smooth jazz, we've created an immersive coffee experience.
+- Responsive design using HTML and CSS.
+- Dynamic image slider for showcasing different coffee images.
+- Interactive navigation menu with toggle functionality for smaller screens.
+- Integration of Google Fonts for typography.
 
+## Getting Started
+
+To get a local copy of this project up and running, follow these steps:
+
+### Prerequisites
+
+- Web browser (Chrome, Firefox, Safari, etc.)
+- Text editor or integrated development environment (IDE) like VS Code, Sublime Text, or Atom.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/bhoomikamittal8/OIBSIP_WebDevIntern/tree/main/A-Landing-Page
+   ```
+
+2. Navigate into the project directory:
+
+   ```bash
+   cd A-Landing-Page
+   ```
+
+3. Open `index.html` in your preferred web browser.
+
+## Usage
+
+- Once the website is loaded, navigate through the different sections using the menu links in the header.
+- Click on thumbnail images at the bottom to dynamically change the main coffee image displayed.
+- The website is responsive, so it adapts to different screen sizes. Toggle the menu on smaller screens using the menu icon.
+
+## License
+
+This project is licensed under the MIT License 
+
+## Contact 📞
+
+#### Feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal/)
