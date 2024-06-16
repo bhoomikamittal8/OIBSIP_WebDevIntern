@@ -53,4 +53,4 @@ This project is licensed under the MIT License
 
 ## Contact 📞
 
-#### Feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal/)
+#### Feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal48/)
